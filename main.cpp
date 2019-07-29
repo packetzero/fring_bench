@@ -382,7 +382,7 @@ void test_stringmap(int totalRows, int iterations, bool decodeOnly, bool identRo
 }
 
 // results:
-// 71% faster overall
+// 82% faster overall
 // 11.35s json,rows=50000, iter=20,decodeOnly=false
 //  1.98s bin,rows=50000, iter=20,decodeOnly=false
 
